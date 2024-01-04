@@ -16,6 +16,9 @@ public class DemoD {
 //Coming from GitHub
 		public static void Subtract(int a,int b) {
 			System.out.println(a-b);
-
-	
+		}
+//Coming from GitHub
+		public static void Divide(int a,int b) {
+			System.out.println(a/b);	
+}
 }
